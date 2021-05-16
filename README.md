@@ -1,0 +1,1 @@
+# Definition plugin for Wox

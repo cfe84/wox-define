@@ -1,0 +1,13 @@
+{
+    "ID":"16725276-cd57-407f-b33a-b67add429bd3",
+    "ActionKeyword":"define",
+    "Name":"Oxford definition",
+    "Description":"Define english word. Works offline",
+    "Author":"Charles",
+    "Version":"1.0",
+    "Language":"executable",
+    "Website":"https://github.com/cfe84/wox-define",
+    "IcoPath":"dictionary.png",
+    "ExecuteFileName":"run.bat",
+    "Disabled": false
+}
